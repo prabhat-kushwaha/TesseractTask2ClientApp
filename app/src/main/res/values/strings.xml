@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task2ClientApp</string>
+    <string name="show_rotation">Show Rotation</string>
+</resources>
